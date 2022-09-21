@@ -11,7 +11,7 @@
     position: absolute;
     background: rgb(139,250,234);
     background: radial-gradient(circle, rgba(139,250,234,1) 0%, rgba(139,159,184,1) 45%, rgba(1,46,87,1) 100%);
-    position: fixed;
+    position:absolute
 }
 .logo{
     width: 120px;
